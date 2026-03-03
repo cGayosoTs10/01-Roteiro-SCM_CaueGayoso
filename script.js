@@ -7,6 +7,10 @@ document.addEventListener('DOMContentLoaded', function() {
     console.log('Landing Page carregada com sucesso!');
 });
 
+document.addEventListener('DOMContentLoaded', function() {
+    console.log('DevLab - Landing Page carregada com sucesso!');
+});
+
 // TODO: Adicionar interatividade à página
 // Exemplos de funcionalidades que podem ser implementadas:
 // - Menu responsivo (toggle)
