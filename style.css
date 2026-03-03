@@ -86,5 +86,11 @@ body {
 /* ========== SEÇÕES ========== */
 /* TODO: Adicionar estilos para as seções "Sobre" e "Serviços" */
 
+h1 {
+    color: #2ecc71;
+    font-size: 3rem;
+    text-align: left;
+}
+
 /* ========== FOOTER ========== */
 /* TODO: Adicionar estilos para o rodapé */
