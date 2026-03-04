@@ -87,9 +87,9 @@ body {
 /* TODO: Adicionar estilos para as seções "Sobre" e "Serviços" */
 
 h1 {
-    color: #2ecc71;
-    font-size: 3rem;
-    text-align: left;
+    color: #2ecc71;       /* cor do Aluno B */
+    font-size: 2.5rem;    /* tamanho do Aluno A */
+    text-align: center;   /* alinhamento do Aluno A */
 }
 
 /* ========== FOOTER ========== */
